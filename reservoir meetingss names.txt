@@ -1,0 +1,12 @@
+Reservoir	        RE contact
+Rimfaks Brent	    Frode Johnsen
+Rimfaks Statfjord	Frode Johnsen
+
+GFS Statfjord	    Olav Solberg Eikrem
+Skinfaks Sør	    Olav Solberg Eikrem/Morten Meldahl
+
+Skinfaks	        Amund Brautaset
+
+Gulltopp	        Manoochehr Abtahi
+Rimfaksdalen	    Manoochehr Abtahi
+GFS Brent	        Manoochehr Abtahi
