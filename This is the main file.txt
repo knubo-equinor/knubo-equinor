@@ -12,3 +12,5 @@ And changed the file in this file MF
 a change here from Visual studio
 
 that i would like to commit actually and push to GitHub
+
+Oh my god that went stright into the GitHub of mine MF
