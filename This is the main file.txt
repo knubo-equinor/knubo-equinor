@@ -14,3 +14,6 @@ a change here from Visual studio
 that i would like to commit actually and push to GitHub
 
 Oh my god that went stright into the GitHub of mine MF
+
+
+Oh i justmade another changeto my project
